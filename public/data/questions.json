@@ -1,0 +1,867 @@
+[
+    {
+        "id": 1,
+        "difficulty": 1,
+        "question": "Que signifie SEO ?",
+        "answers": [
+            {
+                "answer": "Saucisson Et Orangina",
+                "isCorrect": false
+            },
+            {
+                "answer": "Search Engine Optimization",
+                "isCorrect": true
+            },
+            {
+                "answer": "Search End Optimization",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "difficulty": 1,
+        "question": "Que permet le SEO ?",
+        "answers": [
+            {
+                "answer": "Ensemble de techniques utilisées pour optimiser un site web.",
+                "isCorrect": true
+            },
+            {
+                "answer": "Ensemble de techniques pour créer un site web",
+                "isCorrect": false
+            },
+            {
+                "answer": "Ensemble de techniques pour mettre en place une stratégie de SEO",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "difficulty": 1,
+        "question": "Quelle est l'importance du SEO ?",
+        "answers": [
+            {
+                "answer": "Il permet de mieux travailler les mots clés et les hashtags",
+                "isCorrect": false
+            },
+            {
+                "answer": "Ce n’est pas important",
+                "isCorrect": false
+            },
+            {
+                "answer": "Il permet d'attirer plus de trafic sur un site web, d'améliorer sa visibilité et de générer plus de conversions.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "difficulty": 2,
+        "question": "Comment fonctionnent les moteurs de recherche ?",
+        "answers": [
+            {
+                "answer": "Grâce à une petite souris qui pédale vite",
+                "isCorrect": false
+            },
+            {
+                "answer": "On utilise des algorithmes pour classer les sites web en fonction de leur pertinence par rapport à une requête donnée.",
+                "isCorrect": true
+            },
+            {
+                "answer": "On utilise une base de données, qui permet aux mots clés de mieux être référencés.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "difficulty": 1,
+        "question": "Quels sont les principaux moteurs de recherche ?",
+        "answers": [
+            {
+                "answer": "Tinder est le moteur de recherche le plus populaire, suivi de Adopte un mec et de Bumble.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Google est le moteur de recherche le plus populaire, suivi de Bing et de Yahoo!",
+                "isCorrect": true
+            },
+            {
+                "answer": "Google est le moteur de recherche le plus populaire, suivi de Qwant et Ecosia. Peugeot est le moteur qui permet de créer du sel",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "difficulty": 2,
+        "question": "Comment trouver des mots clés pertinents pour votre site web ?",
+        "answers": [
+            {
+                "answer": "Aller sur motclespertinants.com",
+                "isCorrect": false
+            },
+            {
+                "answer": "Regarder ce que les autres sites proposent pour s’adapter à une stratégie déjà existante.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Utilisez des outils de recherche de mots clés tels que Google Keyword Planner, SEMrush, Ahrefs, Moz Keyword Explorer, etc.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "difficulty": 1,
+        "question": "Qu'est-ce que le référencement naturel ?",
+        "answers": [
+            {
+                "answer": "éférencer un site web avec des mots prédéfinis et laisser Google mettre en place le référencement.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Le référencement naturel est un autre nom pour le SEO, qui désigne l'optimisation d'un site web pour les résultats de recherche organiques.",
+                "isCorrect": true
+            },
+            {
+                "answer": "Ajoutez des mots clés, saupoudré de référencement, laissez posez avec Google et cela donne … Le référencement naturel ? ",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "difficulty": 1,
+        "question": "Qu'est-ce qu'un mot-clé ?",
+        "answers": [
+            {
+                "answer": "Permet de faire ressortir les éléments importants d’un texte sur un site internet ",
+                "isCorrect": false
+            },
+            {
+                "answer": "Un mot qui permet d’ouvrir un code",
+                "isCorrect": false
+            },
+            {
+                "answer": "Terme ou expression qui décrit le contenu d'une page web et qui est utilisé pour trouver des informations en ligne.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "difficulty": 1,
+        "question": "Comment choisir des mots-clés pour le SEO ?",
+        "answers": [
+            {
+                "answer": "En fonction de la saison",
+                "isCorrect": false
+            },
+            {
+                "answer": "En faisant pic nidouille ",
+                "isCorrect": false
+            },
+            {
+                "answer": "Les mots-clés doivent être pertinents pour le contenu de la page, avoir un volume de recherche élevé et être peu compétitifs.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "difficulty": 2,
+        "question": "Qu'est-ce que l'optimisation on-page ?",
+        "answers": [
+            {
+                "answer": "L'optimisation on-page consiste à optimiser les éléments du site web tels que le titre, les balises, les images et le contenu pour les moteurs de recherche.",
+                "isCorrect": true
+            },
+            {
+                "answer": "C’est quand la page est optimisée ",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "difficulty": 2,
+        "question": "Qu'est-ce que l'optimisation off-page ?",
+        "answers": [
+            {
+                "answer": "C’est lorsque l’optimisation ne fonctionne pas sur une page.",
+                "isCorrect": false
+            },
+            {
+                "answer": "La réponse C",
+                "isCorrect": false
+            },
+            {
+                "answer": "L'optimisation off-page concerne les facteurs extérieurs au site web, tels que les backlinks et la présence sur les réseaux sociaux.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "difficulty": 1,
+        "question": "Qu'est-ce qu'une balise title ?",
+        "answers": [
+            {
+                "answer": "La balise title est l'élément HTML qui définit le titre de la page web.",
+                "isCorrect": true
+            },
+            {
+                "answer": "Une balise qui contient le titre de la landing page",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "difficulty": 1,
+        "question": "Qu'est-ce qu'une balise meta description ?",
+        "answers": [
+            {
+                "answer": "Un code javascript envoyé au moteur",
+                "isCorrect": false
+            },
+            {
+                "answer": "C’est le titre d’une page",
+                "isCorrect": false
+            },
+            {
+                "answer": "La balise meta description est un élément HTML qui fournit une description concise de la page web.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "difficulty": 3,
+        "question": "Quelle est l'importance des balises title et meta description pour le SEO ?",
+        "answers": [
+            {
+                "answer": "Permet au référencement de mieux fonctionner",
+                "isCorrect": false
+            },
+            {
+                "answer": "Elles fournissent des informations aux moteurs de recherche et aux utilisateurs sur le contenu de la page.",
+                "isCorrect": true
+            },
+            {
+                "answer": "Permet de fournir des informations aux landing page et aux utilisateurs.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "difficulty": 2,
+        "question": "Qu'est-ce qu'un backlink ?",
+        "answers": [
+            {
+                "answer": "Un lien d’ancre qui génère du netlinking",
+                "isCorrect": false
+            },
+            {
+                "answer": "Un lien provenant d'un autre site web qui pointe vers une page de votre site.",
+                "isCorrect": true
+            },
+            {
+                "answer": "Un lien provenant de notre site web vers nos réseaux sociaux.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "difficulty": 3,
+        "question": "Quelle est l'importance des backlinks pour le SEO ?",
+        "answers": [
+            {
+                "answer": "Pouvoir embaucher un alternant.",
+                "isCorrect": false
+            },
+            {
+                "answer": "es backlinks sont importants car ils aident à établir l'autorité d'un site web et à améliorer son classement dans les résultats de recherche.",
+                "isCorrect": true
+            },
+            {
+                "answer": "Établir un meilleur référencement sur les mots clés du site internet. ",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "difficulty": 2,
+        "question": "Qu'est-ce que l'optimisation des images ?,",
+        "answers": [
+            {
+                "answer": "Intégrer un code braille pour faire voir les aveugles.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Consiste à compresser les images et ajouter des balises alt pour améliorer la vitesse de chargement de la page.",
+                "isCorrect": true
+            },
+            {
+                "answer": "Les intégrer avec la meilleure qualité possible.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "difficulty": 2,
+        "question": "Qu'est-ce que la densité de mots-clés ?",
+        "answers": [
+            {
+                "answer": "Un mot-clé qui danse. ",
+                "isCorrect": false
+            },
+            {
+                "answer": "Si le mot clé est correctement référencé ou non. ",
+                "isCorrect": false
+            },
+            {
+                "answer": "Taux d’apparition d’un mot clés dans un texte.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "difficulty": 2,
+        "question": "Qu'est-ce que le contenu dupliqué ?",
+        "answers": [
+            {
+                "answer": "C’est le fait de retrouver un contenu similaire, voire identique, sur des URLs distinctes.",
+                "isCorrect": true
+            },
+            {
+                "answer": "Control C/Control V",
+                "isCorrect": false
+            },
+            {
+                "answer": "C’est lorsque nos textes sont identiques sur notre site internet.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "difficulty": 2,
+        "question": "Qu'est-ce que la balise H1 ?",
+        "answers": [
+            {
+                "answer": "Balise HTML qui indique la description sur un site web",
+                "isCorrect": false
+            },
+            {
+                "answer": "Balise HTML qui indique un titre sur un site web.",
+                "isCorrect": true
+            },
+            {
+                "answer": "Balise THML qui indique un titre sur un site web ",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "difficulty": 2,
+        "question": "Qu'est-ce que la balise H2 ?",
+        "answers": [
+            {
+                "answer": "Sert à donner un texte à un sous titre. ",
+                "isCorrect": false
+            },
+            {
+                "answer": "Sert à donner un sous titre à un texte.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "difficulty": 2,
+        "question": "Qu'est-ce que la balise alt ?",
+        "answers": [
+            {
+                "answer": "Une balise que l’on trouve au fond de la mer. ",
+                "isCorrect": false
+            },
+            {
+                "answer": "Texte alternatif d’une image ou d’un visuel sur une page internet.",
+                "isCorrect": true
+            },
+            {
+                "answer": "Texte alternatif d’un titre sur un site internet.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "difficulty": 3,
+        "question": "Qu'est-ce que le maillage interne ?",
+        "answers": [
+            {
+                "answer": "Les dimensions des mailles d’un filet",
+                "isCorrect": false
+            },
+            {
+                "answer": "L’organisation (maillage) des liens permettant de naviguer d'une page à une autre d'un même site web.",
+                "isCorrect": true
+            },
+            {
+                "answer": "Couverture d’un territoire par un réseau",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "difficulty": 2,
+        "question": "Quelle est la vitesse idéale de chargement d'une page ?,",
+        "answers": [
+            {
+                "answer": "23,7 secondes ",
+                "isCorrect": false
+            },
+            {
+                "answer": "24,3 secondes ",
+                "isCorrect": true
+            },
+            {
+                "answer": "23,10 secondes",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "difficulty": 3,
+        "question": "Pourquoi la vitesse de chargement d'une page est-elle importante pour le SEO ?",
+        "answers": [
+            {
+                "answer": "Permet de ne pas rager car ça lag trop",
+                "isCorrect": false
+            },
+            {
+                "answer": "Permet de diminuer le taux de conversion.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Permet d’optimiser le référencement naturel et favorise une bonne expérience utilisateur.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "difficulty": 3,
+        "question": "Qu'est-ce que la réponse serveur ?",
+        "answers": [
+            {
+                "answer": "Le temps que prend le serveur WEB pour optimiser les mots clés du site internet.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Le temps que prend le serveur WEB pour générer une page, entre le moment où il reçoit la demande et celui où il commence à envoyer le contenu de la page.",
+                "isCorrect": true
+            },
+            {
+                "answer": "Le temps que prend le serveur pour vous apporter les cacahuètes pour l’apéro.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "difficulty": 3,
+        "question": "Qu'est-ce que le contenu à forte valeur ajoutée ?",
+        "answers": [
+            {
+                "answer": "Vous permet d’avoir une bonne audience.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Richesse produite lors du processus de production.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Contenu qui a pour objectif de venir aider votre audience.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "difficulty": 2,
+        "question": "Qu'est-ce que le taux de rebond ?",
+        "answers": [
+            {
+                "answer": "Pourcentage de bond que tu fais à saut de mouton.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Pourcentage des visiteurs qui ont cliqué sur un lien internet.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Pourcentage de visiteurs venant sur un site et en sortant dans la foulée sans ouvrir une page ou cliquer sur un lien.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "difficulty": 3,
+        "question": "Qu'est-ce que le crawl ?",
+        "answers": [
+            {
+                "answer": ",Nage rapide qui consiste en un battement continu des jambes et une rotation alternative des bras.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Logiciel destiné à explorer les ressources d'un site web en suivant les liens que ses pages contiennent.",
+                "isCorrect": true
+            },
+            {
+                "answer": "Méthode de Référencement",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "question": "Qu'est-ce que la pagination ?",
+        "difficulty": 2,
+        "answers": [
+            {
+                "answer": "Ordre des pages",
+                "isCorrect": false
+            },
+            {
+                "answer": "Référencement des pages",
+                "isCorrect": false
+            },
+            {
+                "answer": "Technique qui consiste à scinder en plusieurs pages consécutives",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "question": "Qu'est-ce que le balisage sémantique ?",
+        "difficulty": 3,
+        "answers": [
+            {
+                "answer": "Balise CSS qui apporte une indication sur le contenu d’une page web.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Méthode qui apporte des mots clés plus facilement sur une page web.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Balise HTML qui apporte une indication sur le contenu d’une page web.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "question": "Qu'est-ce que le PageRank ?",
+        "difficulty": 3,
+        "answers": [
+            {
+                "answer": "Algorithme qui lutte contre les contenus de mauvaise qualité",
+                "isCorrect": false
+            },
+            {
+                "answer": "Algorithme qui permet d’évaluer un site web.",
+                "isCorrect": true
+            },
+            {
+                "answer": "Algorithme qui assure la qualité des liens utilisés.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "question": "Qu'est-ce que la longue traîne ?",
+        "difficulty": 2,
+        "answers": [
+            {
+                "answer": "Tissu présent sur la robe de la marié",
+                "isCorrect": false
+            },
+            {
+                "answer": "Type de visuel utilisé sur un site internet.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Ensemble de mots clés ou expressions clés qui sont peu utilisés par les internautes mais qui peuvent générer un trafic sur le site.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "question": "Qu'est-ce que le référencement vidéo ?",
+        "difficulty": 1,
+        "answers": [
+            {
+                "answer": "L’utilisation de plusieurs vidéos différentes pour référencer un site internet.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Stratégies et actions qui visent à gagner en visibilité sur les moteurs de recherche pour et grâce avec du contenu vidéo.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "question": "Qu'est-ce que la recherche vocale ?",
+        "difficulty": 3,
+        "answers": [
+            {
+                "answer": "Technologie permettant à l'utilisateur d’améliorer son timbre de voix.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Technologie permettant à l'utilisateur d'utiliser une commande vocale pour effectuer une recherche sur Internet, un site web ou une application.",
+                "isCorrect": true
+            },
+            {
+                "answer": "Technologie permettant de rechercher son âme sœur avec la même intonation vocale.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "question": "Qu'est-ce que le référencement mobile ?",
+        "difficulty": 3,
+        "answers": [
+            {
+                "answer": "L'inscription d'un ou de plusieurs nouveaux produits sur la liste de ceux qu'un point de vente propose à ses clients.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Rassemble l’ensemble des applications présente sur le téléphone",
+                "isCorrect": false
+            },
+            {
+                "answer": "Rassemble toutes les techniques d'optimisation d'un site destiné à être affiché sur les smartphones et tablettes.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "question": "Qu'est-ce que la recherche d'images ?",
+        "difficulty": "3",
+        "answers": [
+            {
+                "answer": "Technique qui permet de rechercher son arbre généalogique.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Technique qui permet de rechercher des images en se basant sur leurs caractéristiques visuelles.",
+                "isCorrect": true
+            },
+            {
+                "answer": "Technique permettant d’enregistrer les images illégalement sur les sites.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "question": "Qu'est-ce que le contenu généré par l'utilisateur ?",
+        "difficulty": "3",
+        "answers": [
+            {
+                "answer": "Des vidéos et photos de chats",
+                "isCorrect": false
+            },
+            {
+                "answer": "Un algorithme.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Ensemble d’images, vidéos ou questions qui sont destinés à la télédifusion.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "question": "Comment optimiser le référencement pour les appareils mobiles ?",
+        "difficulty": "3",
+        "answers": [
+            {
+                "answer": "Réduire son temps d’échange avec son/sa crush",
+                "isCorrect": false
+            },
+            {
+                "answer": "Optimiser l’inscription et l’acceptation de cookies  sur plusieurs sites internet.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Optimiser le contenu en rédigeant de petits paragraphes et en utilisant des titres et des sous-titres",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "question": "Qu'est-ce que l'autorité de domaine ?",
+        "difficulty": "2",
+        "answers": [
+            {
+                "answer": "C’est lorsque que le domaine est correctement référencé.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Mesure la force de votre site internet sur une échelle de 0 à 100.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "question": "Qu'est-ce que le TrustRank ?",
+        "difficulty": "3",
+        "answers": [
+            {
+                "answer": "Algorithme qui analyse la qualité des images.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Désigne la notion de confiance qu’un moteur de recherche a dans un site web.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "question": "Le cloaking est ?",
+        "difficulty": "3",
+        "answers": [
+            {
+                "answer": "Autorisé par Google",
+                "isCorrect": false
+            },
+            {
+                "answer": "Interdit par Google",
+                "isCorrect": true
+            },
+            {
+                "answer": "N’a pas d'importance auprès de Google.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "question": "L’algorithme Penguin permet :",
+        "difficulty": 2,
+        "answers": [
+            {
+                "answer": "D’attirer les animaux de la banquise.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Analyser la qualité des vidéos et photos d’un site internet.",
+                "isCorrect": false
+            },
+            {
+                "answer": "D’exploiter les failles de Google pour analyser les liens de mauvaise qualité.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "question": "Qu’est ce que le Black Hat ?",
+        "difficulty": 3,
+        "answers": [
+            {
+                "answer": "Un chapeau noir",
+                "isCorrect": false
+            },
+            {
+                "answer": "Un Procédé qui permet d’analyser le fonctionnement d’un site internet.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Ensemble de procédés visant à exploiter les failles des algorithmes pour manipuler les résultats en sa faveur.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "question": "Qu’est ce que le NetLinking ?",
+        "difficulty": 3,
+        "answers": [
+            {
+                "answer": "C’est un réseau social.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Stratégie qui utilise des liens falsifiés.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Stratégie qui vise à utiliser des liens hyperquestions pointant vers le site web.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "question": "Le contenu dynamique, c’est quoi ?",
+        "difficulty": 3,
+        "answers": [
+            {
+                "answer": "S’adapte aléatoirement aux visiteurs d’un site web.",
+                "isCorrect": false
+            },
+            {
+                "answer": "Contenu qui s’adapte de manière personnalisée aux visiteurs d’un site web.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "question": "Qu’est ce que le white hat ?",
+        "difficulty": 2,
+        "answers": [
+            {
+                "answer": "Un chapeau Blanc",
+                "isCorrect": false
+            },
+            {
+                "answer": "Ensemble de pratique de référencement naturel et d’optimisation respectueuses des recommadations de Google.",
+                "isCorrect": true
+            },
+            {
+                "answer": "Stratégie qui vise à mettre en place une manière de référencer les mots clés.",
+                "isCorrect": false
+            }
+        ]
+    }
+]

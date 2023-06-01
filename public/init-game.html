@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../public/styles/index.css">
+    <link rel="stylesheet" href="../public/styles/init-game.css">
+    <link rel="website icon" type="png" href="/images/logo.png">
+    <title>Speed Up!</title>
+</head>
+
+<body>
+    <div id="logo" class="main-logo"></div>
+    <div class="planets">
+        <div id="firstPlanet" class="everyPlanet"></div>
+        <div id="secondPlanet" class="everyPlanet"></div>
+        <div id="thirdPlanet" class="everyPlanet"></div>
+        <div id="fourthPlanet" class="everyPlanet"></div>
+        <div id="fifthPlanet" class="everyPlanet"></div>
+        <div id="sixthPlanet" class="everyPlanet"></div>
+    </div>
+
+
+    <button class="start" id="starts"></button>
+
+
+    <div id="form" class="form">
+        <form action="#" id="form-team">
+            <h1>LOGIN</h1>
+            <div style="display: flex; flex-direction:column; align-items: center; margin-top: 50px;">
+                <label>TEAM NAME</label>
+                <input type="text" name="team" id="team">
+            </div>
+            <button type="submit"></button>
+        </form>
+    </div>
+</body>
+<script type="module">
+    import { reduce, planetSpawner, planetSelector } from "/public/init-game.js"
+    reduce()
+    planetSpawner()
+    planetSelector()
+</script>
+
+</html>

@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../images/background.png);
+    background-repeat: no-repeat;
+}
+
+.timer {
+    color: whitesmoke;
+}
+
+#container 
+{
+    height: 200%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#text-difficulty {
+    color: white;
+}
+
+#question
+{
+    background-image: url(../images/bg-question.png);
+    background-size: cover;
+    background-position: center;
+    margin-top: 20px;
+    height: 300px;
+    width: 950px;
+}
+#question-text {
+    color: white;
+    text-align: center;
+    margin-top: 120px;
+}
+
+
+.team
+{
+    color: white;
+}
+
+.answer
+{
+    background-image: url(../images/bg-answer.png);
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    width: 600px;
+    
+}
+
+.text-answer {
+    color: white;
+    text-align: center;
+}
+
+/* PODIUM */
+
+.podium
+{
+    display: none;
+}
+
+.suppPodium {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#thirdPlace
+{
+    background-image: url(../images/podium/3eme.png);
+    background-size: cover;
+    left: 80vw;
+    margin-top: 15vh;
+    height: 35vh;
+    width: 35vh;
+    animation: 2s ease-in-out 0s infinite waving;
+}
+
+
+#firstPlace 
+{
+    background-image: url(../images/podium/1er.png);
+    background-size: cover;
+	/* left: 10vw; */
+	top: 10vh;
+    height: 60vh;
+    width: 60vh;
+    animation: 2s ease-in-out 0s infinite waving;
+}
+
+#secondPlace
+{
+    background-image: url(../images/podium/2eme.png);
+    background-size: cover;
+	left: 10vw;
+	margin-top: 15vh;
+    height: 40vh;
+    width: 40vh;    
+    animation: 2s ease-in-out 0s infinite waving;
+}
+
+
+
+
+
+
+
+
+
+
+/* ANIMATION WAVE */
+
+@keyframes waving {
+    0% {
+        top: -20px;
+    }
+
+    25%{
+        transform: rotate(-1deg);
+    }
+
+    50%{
+        top: 0px;
+    }
+
+    75%{
+        transform: rotate(1deg);
+    }
+
+    100%{
+        top: -20px;
+
+    }
+}
